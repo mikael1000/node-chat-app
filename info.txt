@@ -1,0 +1,16 @@
+INSTALLERA:
+
+express@4.14.0
+
+
+_____________________________
+
+PACKAGE.JSON:
+
+Add under "scripts":
+"start": "node server/server.js"
+
+Add:
+"engines": {
+    "node": "10.11.0"
+}
