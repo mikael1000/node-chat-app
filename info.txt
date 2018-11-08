@@ -4,6 +4,15 @@ express@4.14.0 --save
 socket.io --save
 
 
+
+FOR TEST:
+
+nodemon@1.10.2 --save-dev (Even if it's a global install)
+
+expect@1.20.2
+mocha@3.0.2
+(npm install expect@1.20.2 mocha@3.0.2 --save-dev)
+
 _____________________________
 
 PACKAGE.JSON:
