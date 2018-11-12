@@ -5,6 +5,11 @@ socket.io --save
 moment@2.15.1 --save
 
 
+PUT:
+moment.js        public/js/libs/       (also in this folder)
+mustache.js      public/js/libs/        Download from: https://github.com/janl/mustache.js/blob/v2.2.1/mustache.js
+
+
 
 FOR TEST:
 
