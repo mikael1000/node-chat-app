@@ -1,3 +1,5 @@
+https://github.com/andrewjmead/node-course-2-chat-app
+
 INSTALLERA:
 
 express@4.14.0 --save
@@ -8,7 +10,7 @@ moment@2.15.1 --save
 PUT:
 moment.js        public/js/libs/       (also in this folder)
 mustache.js      public/js/libs/        Download from: https://github.com/janl/mustache.js/blob/v2.2.1/mustache.js
-
+deparam.js       public/js/libs         link in file
 
 
 FOR TEST:
